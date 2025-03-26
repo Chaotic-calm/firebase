@@ -155,11 +155,7 @@ curl -X POST "http://localhost:5000/auth/signup" -H "Content-Type: application/j
 - **bcrypt.js** (Password Hashing)
 - **dotenv** (Environment Variables)
 
----
-
-## 📜 License
-This project is open-source under the **MIT License**.
-
+ 
 ---
 
 ## 👨‍💻 Author
