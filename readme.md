@@ -159,6 +159,6 @@ curl -X POST "http://localhost:5000/auth/signup" -H "Content-Type: application/j
 ---
 
 ## 👨‍💻 Author
-Developed by **Your Name**  
-GitHub: [Your GitHub Profile](https://github.com/your-username)
+Developed by **VAISHALI**  
+GitHub: [Your GitHub Profile](https://github.com/Chaotic-calm)
 
