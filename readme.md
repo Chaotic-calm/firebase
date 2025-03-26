@@ -137,13 +137,7 @@ npx nodemon server.js
 - **Headers:** (Include JWT Token)
 
 ---
-
-## 🧪 Testing with Postman
-1. **Run the server:** `node server.js`
-2. **Use Postman** or **cURL** to send requests:
-```sh
-curl -X POST "http://localhost:5000/auth/signup" -H "Content-Type: application/json" -d '{"name": "John", "email": "john@example.com", "password": "password123"}'
-```
+ 
 
 ---
 
@@ -160,5 +154,5 @@ curl -X POST "http://localhost:5000/auth/signup" -H "Content-Type: application/j
 
 ## 👨‍💻 Author
 Developed by **VAISHALI**  
-GitHub: [Your GitHub Profile](https://github.com/Chaotic-calm)
+GitHub: [GitHub Profile](https://github.com/Chaotic-calm)
 
